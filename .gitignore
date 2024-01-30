@@ -1,0 +1,28 @@
+# C++ build files
+*.o              # Object files
+*.obj            # Object files
+*.exe            # Executables
+*.dll            # Dynamic link libraries
+*.so             # Shared libraries
+*.dylib          # macOS dynamic libraries
+*.out            # Output files
+
+# CMake build directory
+build/           # Default build directory for CMake
+
+# Visual Studio Code
+.vscode/         # Visual Studio Code configuration folder
+
+# Xcode
+*.xcodeproj      # Xcode project file
+
+# Code::Blocks
+*.cbp            # Code::Blocks project file
+*.layout         # Code::Blocks workspace layout file
+
+# Makefile
+Makefile
+Makefile.*
+
+#others
+basics/
